@@ -1,5 +1,6 @@
 // Options
-const CLIENT_ID = '901705907567-05m5b5mcor3seudqmimiovk9e2g1abp5.apps.googleusercontent.com';
+// const CLIENT_ID = '901705907567-05m5b5mcor3seudqmimiovk9e2g1abp5.apps.googleusercontent.com';
+const CLIENT_ID = '901705907567-05m5b5mcor3seudqmimiovk9e2g1acp5.apps.googleusercontent.com';
 // Array of API discovery doc URLs for APIs used by the quickstart
 const DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest"];
 
